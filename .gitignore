@@ -1,0 +1,24 @@
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+riasec_vector_db/
+*.sqlite3
+
+# Environment and Logs
+.env
+*.log
+
+# User Files
+*.pdf
+*.docx
+screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
